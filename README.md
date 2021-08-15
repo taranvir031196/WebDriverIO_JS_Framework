@@ -1,6 +1,6 @@
 # WebDriverIO_JS_Framework
 
-             ![image](https://user-images.githubusercontent.com/26374104/129474614-56943c5c-8f80-4238-b653-f01ab72aaf40.png)
+ ![image](https://user-images.githubusercontent.com/26374104/129474614-56943c5c-8f80-4238-b653-f01ab72aaf40.png)
 
 Next-gen browser and mobile automation test framework for Node.js.
 
