@@ -9,7 +9,7 @@ WebdriverIO is a test automation framework that allows you to run tests based on
 In this Mocha-Chai framework there are various test scenario which are run using the WebDriverIO in Chrome Browser and is also configured with jenkins which enables you to trigger the scenario from jenkins with just one click.
 
 
-👩‍💻 👨‍💻 **Contributing**
+#👩‍💻 👨‍💻 **Contributing**
 You like this WebdriverIO Framework and want to help making it better? Feel Free to Contribute and make it better.
 
 
