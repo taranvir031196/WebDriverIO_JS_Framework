@@ -1,0 +1,90 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1617120584766' stop='1617120587632'>
+    <name>Ecommerce Application</name>
+    <title>Ecommerce Application</title>
+    <test-cases>
+        <test-case start='1617120584768' status='pending' stop='1617120584768'>
+            <name>Login Fail page title-Smoke</name>
+            <title>Login Fail page title-Smoke</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1617120584768' status='pending' stop='1617120584768'>
+            <name>Login Fail page title Smoke</name>
+            <title>Login Fail page title Smoke</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1617120584769' status='pending' stop='1617120584769'>
+            <name>Login Success page title</name>
+            <title>Login Success page title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1617120584769' status='broken' stop='1617120587631'>
+            <name>should detect if an element is selected</name>
+            <title>should detect if an element is selected</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-89.0.4389.90'/>
+            </parameters>
+            <steps>
+                <step start='1617120584782' status='passed' stop='1617120586775'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='a4eca2a3-c40e-4918-9be0-31c243add9cc-attachment.json' type='application/json' size='65'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1617120586779' status='passed' stop='1617120586845'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='15e44744-f1dd-4850-9302-2e7922dcffc5-attachment.json' type='application/json' size='61'/>
+                        <attachment title='Response' source='527ab639-40ec-4b78-8746-65427ace4201-attachment.json' type='application/json' size='2'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1617120586860' status='passed' stop='1617120587629'>
+                    <name>GET /session/:sessionId/screenshot</name>
+                    <title>GET /session/:sessionId/screenshot</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='1d0dc150-ac2c-48c1-8c32-732c8625fc20-attachment.png' type='image/png' size='225676'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>Cannot read property 'click' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'click' of undefined
+                    at Context.&lt;anonymous> (C:\Users\Owner\webdriverio\test\specs\firstTest.js:59:18)
+                    at Context.executeSync (C:\Users\Owner\webdriverio\node_modules\@wdio\sync\build\index.js:25:22)
+                    at C:\Users\Owner\webdriverio\node_modules\@wdio\sync\build\index.js:46:68</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

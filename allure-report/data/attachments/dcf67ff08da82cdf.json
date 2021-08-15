@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"partial link text\",\"selector\":\"Checkout\"}\n  (Session info: chrome=86.0.4240.183)",
+  "stacktrace": "Backtrace:\n\tOrdinal0 [0x0080C013+3194899]\n\tOrdinal0 [0x006F6021+2056225]\n\tOrdinal0 [0x0058F608+587272]\n\tOrdinal0 [0x0051B5A1+112033]\n\tOrdinal0 [0x0053B182+242050]\n\tOrdinal0 [0x0052FDAA+196010]\n\tOrdinal0 [0x00539B22+236322]\n\tOrdinal0 [0x0052FC1B+195611]\n\tOrdinal0 [0x00513B7F+80767]\n\tOrdinal0 [0x00514B4E+84814]\n\tOrdinal0 [0x00514AD9+84697]\n\tOrdinal0 [0x0070CE64+2149988]\n\tGetHandleVerifier [0x0097BE95+1400773]\n\tGetHandleVerifier [0x0097BB61+1399953]\n\tGetHandleVerifier [0x009831FA+1430314]\n\tGetHandleVerifier [0x0097C69F+1402831]\n\tOrdinal0 [0x00703D61+2112865]\n\tOrdinal0 [0x0070E5CB+2155979]\n\tOrdinal0 [0x0070E6F5+2156277]\n\tOrdinal0 [0x0071F26E+2224750]\n\tBaseThreadInitThunk [0x75486359+25]\n\tRtlGetAppContainerNamedObjectPath [0x77347C24+228]\n\tRtlGetAppContainerNamedObjectPath [0x77347BF4+180]\n"
+}

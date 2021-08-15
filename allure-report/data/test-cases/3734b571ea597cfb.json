@@ -1,0 +1,118 @@
+{
+  "uid" : "3734b571ea597cfb",
+  "name" : "Checkboxes Identification",
+  "fullName" : "Ecommerce Application.Checkboxes Identification",
+  "historyId" : "6eecf83a2d1d653fd847d6b9ed7951b8",
+  "time" : {
+    "start" : 1617126449647,
+    "stop" : 1617126450001,
+    "duration" : 354
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read property 'click' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'click' of undefined\n                    at Context.<anonymous> (C:\\Users\\Owner\\webdriverio\\test\\specs\\uiControls.js:54:13)\n                    at Context.executeSync (C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Cannot read property 'click' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'click' of undefined\n                    at Context.<anonymous> (C:\\Users\\Owner\\webdriverio\\test\\specs\\uiControls.js:54:13)\n                    at Context.executeSync (C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1617126449666,
+        "stop" : 1617126449716,
+        "duration" : 50
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "567b6bed328745e5",
+        "name" : "Request",
+        "source" : "567b6bed328745e5.json",
+        "type" : "application/json",
+        "size" : 66
+      }, {
+        "uid" : "67149a07c925df79",
+        "name" : "Response",
+        "source" : "67149a07c925df79.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1617126449730,
+        "stop" : 1617126449998,
+        "duration" : 268
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cf69115b850cb052",
+        "name" : "Screenshot",
+        "source" : "cf69115b850cb052.png",
+        "type" : "image/png",
+        "size" : 3486
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checkboxes Identification"
+  }, {
+    "name" : "package",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3734b571ea597cfb.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}

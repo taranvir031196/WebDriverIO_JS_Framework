@@ -1,0 +1,126 @@
+{
+  "id": {
+    "sessionId": "9ed35f81ab06fca93c8a369a6d98155a",
+    "elementId": "b337219e-135e-43d3-9240-48aa10454c19",
+    "element-6066-11e4-a52e-4f735466cecf": "b337219e-135e-43d3-9240-48aa10454c19",
+    "selector": "[id='courses-iframe']",
+    "parent": {
+      "sessionId": "9ed35f81ab06fca93c8a369a6d98155a",
+      "capabilities": {
+        "acceptInsecureCerts": true,
+        "browserName": "chrome",
+        "browserVersion": "92.0.4515.131",
+        "chrome": {
+          "chromedriverVersion": "92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634})",
+          "userDataDir": "C:\\Users\\HP\\AppData\\Local\\Temp\\scoped_dir6872_1278038660"
+        },
+        "goog:chromeOptions": {
+          "debuggerAddress": "localhost:52759"
+        },
+        "networkConnectionEnabled": false,
+        "pageLoadStrategy": "normal",
+        "platformName": "windows",
+        "proxy": {},
+        "setWindowRect": true,
+        "strictFileInteractability": false,
+        "timeouts": {
+          "implicit": 0,
+          "pageLoad": 300000,
+          "script": 30000
+        },
+        "unhandledPromptBehavior": "dismiss and notify",
+        "webauthn:extension:credBlob": true,
+        "webauthn:extension:largeBlob": true,
+        "webauthn:virtualAuthenticators": true
+      },
+      "config": {
+        "specs": [
+          "./test/specs/**/*.js"
+        ],
+        "suites": {
+          "debitCard": [
+            "test/specs/uiControls.js",
+            "test/specs/windowsFrames.js"
+          ],
+          "creditCard": [
+            "test/specs/eCommerceE2E.js"
+          ]
+        },
+        "exclude": [
+          "test/specs/eCommerceE2E.js"
+        ],
+        "logLevel": "silent",
+        "logLevels": {},
+        "excludeDriverLogs": [],
+        "bail": 10,
+        "waitforInterval": 500,
+        "waitforTimeout": 10000,
+        "framework": "mocha",
+        "reporters": [
+          [
+            "allure",
+            {
+              "outputDir": "allure-results",
+              "disableWebdriverScreenshotsReporting": false
+            }
+          ]
+        ],
+        "services": [
+          "chromedriver"
+        ],
+        "maxInstances": 6,
+        "maxInstancesPerCapability": 100,
+        "filesToWatch": [],
+        "connectionRetryTimeout": 120000,
+        "connectionRetryCount": 3,
+        "execArgv": [],
+        "runnerEnv": {},
+        "runner": "local",
+        "mochaOpts": {
+          "timeout": 60000,
+          "ui": "bdd"
+        },
+        "jasmineNodeOpts": {
+          "defaultTimeoutInterval": 10000
+        },
+        "cucumberOpts": {
+          "timeout": 10000
+        },
+        "onPrepare": [],
+        "onWorkerStart": [],
+        "before": [],
+        "beforeSession": [],
+        "beforeSuite": [],
+        "beforeHook": [],
+        "beforeTest": [],
+        "beforeCommand": [],
+        "afterCommand": [],
+        "afterTest": [
+          null
+        ],
+        "afterHook": [],
+        "afterSuite": [],
+        "afterSession": [],
+        "after": [],
+        "onComplete": [],
+        "onReload": [],
+        "beforeFeature": [],
+        "beforeScenario": [],
+        "beforeStep": [],
+        "afterStep": [],
+        "afterScenario": [],
+        "afterFeature": [],
+        "baseUrl": "https://rahulshettyacademy.com",
+        "_": [
+          "run"
+        ],
+        "$0": "node_modules\\@wdio\\cli\\bin\\wdio.js",
+        "config-path": "wdio.conf.js",
+        "ignoredWorkerServices": [],
+        "specFileRetryAttempts": 0
+      },
+      "_NOT_FIBER": true
+    },
+    "isReactElement": false
+  }
+}

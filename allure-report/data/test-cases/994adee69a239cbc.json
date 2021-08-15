@@ -1,0 +1,46 @@
+{
+  "uid" : "994adee69a239cbc",
+  "name" : "Dynamic Dropdown Controls Smoke",
+  "fullName" : "Ecommerce Application.Dynamic Dropdown Controls Smoke",
+  "historyId" : "f5a0f3b43f5b30a834950e67a3453803",
+  "time" : {
+    "start" : 1617126528688,
+    "stop" : 1617126528688,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Dynamic Dropdown Controls Smoke"
+  }, {
+    "name" : "package",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "994adee69a239cbc.json",
+  "parameterValues" : [ ]
+}

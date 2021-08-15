@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1617120670412' stop='1617120681544'>
+    <name>Ecommerce Application</name>
+    <title>Ecommerce Application</title>
+    <test-cases>
+        <test-case start='1617120670413' status='pending' stop='1617120670413'>
+            <name>Login Fail page title-Smoke</name>
+            <title>Login Fail page title-Smoke</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1617120670414' status='pending' stop='1617120670414'>
+            <name>Login Fail page title Smoke</name>
+            <title>Login Fail page title Smoke</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1617120670414' status='pending' stop='1617120670414'>
+            <name>Login Success page title</name>
+            <title>Login Success page title</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1617120670414' status='passed' stop='1617120681541'>
+            <name>should detect if an element is selected</name>
+            <title>should detect if an element is selected</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-89.0.4389.90'/>
+            </parameters>
+            <steps>
+                <step start='1617120670423' status='passed' stop='1617120680597'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='db8f4623-e5d6-45df-af01-73be8e5e8282-attachment.json' type='application/json' size='65'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1617120680601' status='passed' stop='1617120681006'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='a81da37f-ec01-40c6-9edf-8f23052c5f81-attachment.json' type='application/json' size='63'/>
+                        <attachment title='Response' source='0dd5d2d6-aca6-44ae-8643-61af952a9381-attachment.json' type='application/json' size='275'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1617120681025' status='passed' stop='1617120681112'>
+                    <name>POST /session/:sessionId/element/a93b5ee3-1ef3-48a6-9bf2-65eb80142134/click</name>
+                    <title>POST /session/:sessionId/element/a93b5ee3-1ef3-48a6-9bf2-65eb80142134/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1617120681112' status='passed' stop='1617120681135'>
+                    <name>GET /session/:sessionId/element/a93b5ee3-1ef3-48a6-9bf2-65eb80142134/selected</name>
+                    <title>GET /session/:sessionId/element/a93b5ee3-1ef3-48a6-9bf2-65eb80142134/selected</title>
+                    <attachments>
+                        <attachment title='Response' source='7bb2cd82-9730-4b3b-a89d-0341e28019bc-attachment.json' type='application/json' size='4'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1617120681138' status='passed' stop='1617120681172'>
+                    <name>GET /session/:sessionId/element/5a8bceec-35a9-45dd-9c4a-8014e7eb9dc3/selected</name>
+                    <title>GET /session/:sessionId/element/5a8bceec-35a9-45dd-9c4a-8014e7eb9dc3/selected</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1617120681173' status='passed' stop='1617120681538'>
+                    <name>GET /session/:sessionId/screenshot</name>
+                    <title>GET /session/:sessionId/screenshot</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='78024bf6-5039-4d83-9f12-a015984d88eb-attachment.png' type='image/png' size='51368'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

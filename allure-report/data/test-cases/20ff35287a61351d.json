@@ -1,0 +1,46 @@
+{
+  "uid" : "20ff35287a61351d",
+  "name" : "Web Tables Sort validation Smoke",
+  "fullName" : "Functional Testing on  Application.Web Tables Sort validation Smoke",
+  "historyId" : "1d35813172ea3319bed30c99aa303cfc",
+  "time" : {
+    "start" : 1605041152970,
+    "stop" : 1605041152970,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Functional Testing on  Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Functional Testing on  Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Web Tables Sort validation Smoke"
+  }, {
+    "name" : "package",
+    "value" : "Functional Testing on  Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20ff35287a61351d.json",
+  "parameterValues" : [ ]
+}

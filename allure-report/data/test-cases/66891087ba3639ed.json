@@ -1,0 +1,96 @@
+{
+  "uid" : "66891087ba3639ed",
+  "name" : "UI Controls sanity",
+  "fullName" : "Ecommerce Application.UI Controls sanity",
+  "historyId" : "3a8563858f776d89f38c38a421ad3990",
+  "time" : {
+    "start" : 1617126693351,
+    "stop" : 1617126693351,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "UI Controls sanity"
+  }, {
+    "name" : "package",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1dfc05b893b1e057",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1617126528687,
+        "stop" : 1617126528687,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9f74b3288a8a4b85",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1617126469813,
+        "stop" : 1617126469813,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "acfb43577f99a47b",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1617126449646,
+        "stop" : 1617126449646,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 2,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "96b4a800c605d434",
+        "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/96b4a800c605d434",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1617126693351,
+          "stop" : 1617126693351,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "66891087ba3639ed.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,2833 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Login Success page title",
+    "uid" : "fcd579fdc92faaef",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629010773214,
+      "stop" : 1629010773214,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "ad7c3f6c15844fe",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628525944488,
+      "stop" : 1628525944488,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "0-2",
+    "children" : [ {
+      "name" : "Login Fail page title",
+      "uid" : "575123764e7131c9",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010759502,
+        "stop" : 1629010770914,
+        "duration" : 11412
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "72bacef7b746b965",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039267306,
+        "stop" : 1605039281287,
+        "duration" : 13981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "1e4160d5ff94bdb",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042109608,
+        "stop" : 1605042121956,
+        "duration" : 12348
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "5e6b7056a4101a0f",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628525945907,
+        "stop" : 1628525952722,
+        "duration" : 6815
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "1f84d6605abc83a9",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "broken",
+      "time" : {
+        "start" : 1628456541934,
+        "stop" : 1628456554050,
+        "duration" : 12116
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "560490f40b0b3219",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605037461351,
+        "stop" : 1605037475081,
+        "duration" : 13730
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "cdafa917c1522149",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605036605988,
+        "stop" : 1605036615545,
+        "duration" : 9557
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "b676d7d8a3d45624",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039976011,
+        "stop" : 1605039985741,
+        "duration" : 9730
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "e65b21c2a2b6bcfb",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020320564,
+        "stop" : 1629020334632,
+        "duration" : 14068
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "8d3991cef6739dd8",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605037455552,
+        "stop" : 1605037461351,
+        "duration" : 5799
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "19b5c69361d3d30",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605036591684,
+        "stop" : 1605036605988,
+        "duration" : 14304
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "ab2d9d45bd997e86",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605037475081,
+        "stop" : 1605037484420,
+        "duration" : 9339
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "8dbf8017fc316167",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010775860,
+        "stop" : 1629010793389,
+        "duration" : 17529
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "e7471f8a20c903d9",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039281287,
+        "stop" : 1605039290878,
+        "duration" : 9591
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "ee92113c003036f1",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041152510,
+        "stop" : 1605041178235,
+        "duration" : 25725
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "10d5f31f3c336263",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "broken",
+      "time" : {
+        "start" : 1628525956493,
+        "stop" : 1628525968474,
+        "duration" : 11981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "17c889133a745077",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628525952723,
+        "stop" : 1628525956492,
+        "duration" : 3769
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "8e70d7109c4ddd56",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020036387,
+        "stop" : 1629020046275,
+        "duration" : 9888
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "b4cfc6cb8e40539a",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958974625,
+        "stop" : 1628958981372,
+        "duration" : 6747
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "d545e40247caa31a",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042075755,
+        "stop" : 1605042087751,
+        "duration" : 11996
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "1a262f476b9e8b9e",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "broken",
+      "time" : {
+        "start" : 1628525968474,
+        "stop" : 1628525979857,
+        "duration" : 11383
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "cd374f7bd217d6cf",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041178236,
+        "stop" : 1605041189555,
+        "duration" : 11319
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "bc2f8156871341e3",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605036577493,
+        "stop" : 1605036585649,
+        "duration" : 8156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "4525999f3b992a01",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042060214,
+        "stop" : 1605042075754,
+        "duration" : 15540
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "c1a86615b3b8a427",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958981372,
+        "stop" : 1628958985309,
+        "duration" : 3937
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "d536f60a589bdf6d",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039260562,
+        "stop" : 1605039267305,
+        "duration" : 6743
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "ac6dfb01176fe961",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010793389,
+        "stop" : 1629010804634,
+        "duration" : 11245
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "c33ea73cfed698a",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041862002,
+        "stop" : 1605041868094,
+        "duration" : 6092
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "19c165b37989d858",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041207464,
+        "stop" : 1605041225270,
+        "duration" : 17806
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "3727d0608b1ea887",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958985311,
+        "stop" : 1628958999088,
+        "duration" : 13777
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "52d819823062589d",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605040012032,
+        "stop" : 1605040033307,
+        "duration" : 21275
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "1997a48354e4eab6",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010770915,
+        "stop" : 1629010775860,
+        "duration" : 4945
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "8d7d4f18e560995",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020334632,
+        "stop" : 1629020346603,
+        "duration" : 11971
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "7f73c47203661632",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "broken",
+      "time" : {
+        "start" : 1605041189556,
+        "stop" : 1605041207464,
+        "duration" : 17908
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "a0e2fcc304a0f2d5",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958999089,
+        "stop" : 1628959008890,
+        "duration" : 9801
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "40aa24f5f0bd48f1",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041849844,
+        "stop" : 1605041862001,
+        "duration" : 12157
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "1631a17086b3a03c",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020016952,
+        "stop" : 1629020022120,
+        "duration" : 5168
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "280c6b0da5fa7e1",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628456511329,
+        "stop" : 1628456523965,
+        "duration" : 12636
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "68485027cb3926d3",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039985743,
+        "stop" : 1605040012031,
+        "duration" : 26288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "1d27f5625b45d3f",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041868094,
+        "stop" : 1605041882031,
+        "duration" : 13937
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "6f95bd5a2d0f5f80",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039247322,
+        "stop" : 1605039260561,
+        "duration" : 13239
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "f94c46fb06a05522",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "broken",
+      "time" : {
+        "start" : 1628456529387,
+        "stop" : 1628456541934,
+        "duration" : 12547
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "db070a3f99b18e62",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605036585651,
+        "stop" : 1605036591683,
+        "duration" : 6032
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "6756286932755a2f",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041882032,
+        "stop" : 1605041891356,
+        "duration" : 9324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "2396fecfebf8e57d",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605037444176,
+        "stop" : 1605037455551,
+        "duration" : 11375
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "1849ece9811911cc",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042087751,
+        "stop" : 1605042109607,
+        "duration" : 21856
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "9f27aece5f8a827",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020005870,
+        "stop" : 1629020016951,
+        "duration" : 11081
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "40eec5c1801e18ed",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020316009,
+        "stop" : 1629020320564,
+        "duration" : 4555
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "8138fd5e20fb50e2",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628456523966,
+        "stop" : 1628456529387,
+        "duration" : 5421
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "37e0645f5d6c7222",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039935377,
+        "stop" : 1605039976007,
+        "duration" : 40630
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "452f5e4ca0a98b67",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020304902,
+        "stop" : 1629020316007,
+        "duration" : 11105
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "a832229103897853",
+      "parentUid" : "880a094af3dffab161e2023284569d6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020022120,
+        "stop" : 1629020036386,
+        "duration" : 14266
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    } ],
+    "uid" : "880a094af3dffab161e2023284569d6f"
+  }, {
+    "name" : "0-1",
+    "children" : [ {
+      "name" : "Web Tables Filter validation",
+      "uid" : "39753be42103a5ba",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1629020305125,
+        "stop" : 1629020322111,
+        "duration" : 16986
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "64f87a083f96f1ea",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605041852093,
+        "stop" : 1605041870156,
+        "duration" : 18063
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "60ab251880a58b93",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605041152973,
+        "stop" : 1605041181861,
+        "duration" : 28888
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "6c2f46c4437ab3b0",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605039935452,
+        "stop" : 1605039976216,
+        "duration" : 40764
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "b73d95ca949bf7e4",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605037445368,
+        "stop" : 1605037462813,
+        "duration" : 17445
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "cd3ce95067392cde",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605036579750,
+        "stop" : 1605036584515,
+        "duration" : 4765
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "733f02eb055d697d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1628456511352,
+        "stop" : 1628456528439,
+        "duration" : 17087
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "a543c6c01d29476f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605039248126,
+        "stop" : 1605039268100,
+        "duration" : 19974
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "3c32f1ca4492a7e8",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1628525944489,
+        "stop" : 1628525960270,
+        "duration" : 15781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "63f9c4453780a41e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1629010759411,
+        "stop" : 1629010777270,
+        "duration" : 17859
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "497d32d0051b245c",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1628958972276,
+        "stop" : 1628958989369,
+        "duration" : 17093
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "2abe7823048b9b0f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605042051855,
+        "stop" : 1605042079781,
+        "duration" : 27926
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "ce27d7b9b8db14c7",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "failed",
+      "time" : {
+        "start" : 1629020006137,
+        "stop" : 1629020023515,
+        "duration" : 17378
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "a76a54446c443db6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605041852092,
+      "stop" : 1605041852092,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "8aa748e769f9be7e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605039263986,
+      "stop" : 1605039263986,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "80f7734ef93e9ba9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628456526978,
+      "stop" : 1628456526978,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "f38544c2c8d3259",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629010759410,
+      "stop" : 1629010759410,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "0-3",
+    "children" : [ {
+      "name" : "UI Controls sanity",
+      "uid" : "90b388af112c046e",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041852511,
+        "stop" : 1605041863716,
+        "duration" : 11205
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "e332f8da3a944c76",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958982784,
+        "stop" : 1628958997180,
+        "duration" : 14396
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "41673f4d839ec446",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041863716,
+        "stop" : 1605041875622,
+        "duration" : 11906
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "d3edf8cdfa9d8cc6",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958997180,
+        "stop" : 1628959000725,
+        "duration" : 3545
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "e21689044c5a77ad",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628525966622,
+        "stop" : 1628525970086,
+        "duration" : 3464
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "803053f0d8f4a9bc",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628456541979,
+        "stop" : 1628456547624,
+        "duration" : 5645
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "f4ec1152395950bf",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020007413,
+        "stop" : 1629020017516,
+        "duration" : 10103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "259daca61ba106b9",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628525943460,
+        "stop" : 1628525953952,
+        "duration" : 10492
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "b218dc71ba316185",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039983535,
+        "stop" : 1605040012627,
+        "duration" : 29092
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "36807242fa76d09a",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010788237,
+        "stop" : 1629010795008,
+        "duration" : 6771
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "cd600fbfc655c3ae",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020317510,
+        "stop" : 1629020332682,
+        "duration" : 15172
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "d9b3cd269576849c",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628525953953,
+        "stop" : 1628525966622,
+        "duration" : 12669
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "2123ab380eefb391",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605037456173,
+        "stop" : 1605037467880,
+        "duration" : 11707
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "41a4780e230dc3b3",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010772223,
+        "stop" : 1629010788236,
+        "duration" : 16013
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "6fcad2a6d0131e09",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042080105,
+        "stop" : 1605042108875,
+        "duration" : 28770
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "ba51e49e202e7a0d",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020305228,
+        "stop" : 1629020317509,
+        "duration" : 12281
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "6d039eb4fc4ae2e3",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010759914,
+        "stop" : 1629010772221,
+        "duration" : 12307
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "778aab6c5cc43591",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041156480,
+        "stop" : 1605041185516,
+        "duration" : 29036
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "c965889ce851fb43",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020332682,
+        "stop" : 1629020337261,
+        "duration" : 4579
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "2380414fdce59c4e",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958974541,
+        "stop" : 1628958982783,
+        "duration" : 8242
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "751347d06ba8c7c4",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605036579943,
+        "stop" : 1605036589793,
+        "duration" : 9850
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "146edf6f1dbff721",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628456512281,
+        "stop" : 1628456525400,
+        "duration" : 13119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "2d69677783b76af0",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628456525401,
+        "stop" : 1628456541977,
+        "duration" : 16576
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "9ba1e6aa79eb806",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041185519,
+        "stop" : 1605041213050,
+        "duration" : 27531
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "a4f41f5db8795542",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039263498,
+        "stop" : 1605039276651,
+        "duration" : 13153
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "3e9f407bb3b8dd30",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605036589793,
+        "stop" : 1605036599874,
+        "duration" : 10081
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "966d557170df37e3",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042051244,
+        "stop" : 1605042080104,
+        "duration" : 28860
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "10eb8d1dd75b6621",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605037445701,
+        "stop" : 1605037456172,
+        "duration" : 10471
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "25cb4845f9b18a05",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020029121,
+        "stop" : 1629020034129,
+        "duration" : 5008
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "da5249289b48e844",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020017517,
+        "stop" : 1629020029121,
+        "duration" : 11604
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "217c4de0d39d75f9",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039249005,
+        "stop" : 1605039263498,
+        "duration" : 14493
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "fcc96b537d8e02e1",
+      "parentUid" : "b755a79e149728f67460aea38b0710e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039940262,
+        "stop" : 1605039983532,
+        "duration" : 43270
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    } ],
+    "uid" : "b755a79e149728f67460aea38b0710e0"
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "410a79a7a81f8b12",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629020006137,
+      "stop" : 1629020006137,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "153bb2450ada60a4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605039938848,
+      "stop" : 1605039938848,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "0-4",
+    "children" : [ {
+      "name" : "Frames switch",
+      "uid" : "dc7cbf252ef6bd1a",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605037444581,
+        "stop" : 1605037463198,
+        "duration" : 18617
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "f9ceb8d4d4f33439",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "broken",
+      "time" : {
+        "start" : 1605039938851,
+        "stop" : 1605039998864,
+        "duration" : 60013
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "b8cb2832eeffe33c",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041155605,
+        "stop" : 1605041202055,
+        "duration" : 46450
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "1a33ae217f993279",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010759507,
+        "stop" : 1629010780654,
+        "duration" : 21147
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "51c7647dc58306ed",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041850361,
+        "stop" : 1605041869529,
+        "duration" : 19168
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "42ec420d405e3901",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628456512289,
+        "stop" : 1628456538803,
+        "duration" : 26514
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "ca6a2832519589eb",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042052094,
+        "stop" : 1605042104007,
+        "duration" : 51913
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "251e53f667bf3d5b",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020005634,
+        "stop" : 1629020028228,
+        "duration" : 22594
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "64e07f1430439022",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605036578766,
+        "stop" : 1605036596559,
+        "duration" : 17793
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "58ca3aa13b2fecef",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628525945235,
+        "stop" : 1628525963104,
+        "duration" : 17869
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "ed96064bc51b5ea",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039246900,
+        "stop" : 1605039266476,
+        "duration" : 19576
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "c30c5633f687cd73",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020306115,
+        "stop" : 1629020327481,
+        "duration" : 21366
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "20e007546d81ba16",
+      "parentUid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958973144,
+        "stop" : 1628958992033,
+        "duration" : 18889
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    } ],
+    "uid" : "24bc2dfa7c2fb5a7cdc8e85ad96a418d"
+  }, {
+    "name" : "Login Fail page title Smoke",
+    "uid" : "4c0409cf52e54a52",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120497137,
+      "stop" : 1617120497137,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Fail page title Smoke",
+    "uid" : "9bdc3b9319163dd6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120670414,
+      "stop" : 1617120670414,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "630ea48ef4d6a606",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958982322,
+        "stop" : 1628958982745,
+        "duration" : 423
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "should detect if an element is selected",
+      "uid" : "2363900a53e7b2a1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617120670414,
+        "stop" : 1617120681541,
+        "duration" : 11127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "cbd5728c861190e1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605037444367,
+        "stop" : 1605037457397,
+        "duration" : 13030
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "92c57c49b1d02247",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628525953881,
+        "stop" : 1628525954277,
+        "duration" : 396
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "3734b571ea597cfb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1617126449647,
+        "stop" : 1617126450001,
+        "duration" : 354
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "c00fe2ceddea7205",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958972861,
+        "stop" : 1628958982321,
+        "duration" : 9460
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "51dfee368827a5c0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039246898,
+        "stop" : 1605039262577,
+        "duration" : 15679
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "21b730cdcc257145",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039981009,
+        "stop" : 1605039982891,
+        "duration" : 1882
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "1a25f97226ac07d6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020017348,
+        "stop" : 1629020018065,
+        "duration" : 717
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "8d26e99b868e5405",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617126528689,
+        "stop" : 1617126537233,
+        "duration" : 8544
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "543989cc40f2f9f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628525944778,
+        "stop" : 1628525953881,
+        "duration" : 9103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "66f947bbd3dd43b6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041152029,
+        "stop" : 1605041181355,
+        "duration" : 29326
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "248bac550ca4e69a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605036588579,
+        "stop" : 1605036589643,
+        "duration" : 1064
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "387b2db1e0084b4c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628456512376,
+        "stop" : 1628456526587,
+        "duration" : 14211
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "92f6af18e5908089",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020303023,
+        "stop" : 1629020314399,
+        "duration" : 11376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "e29f4ce2b2a0d89a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020314400,
+        "stop" : 1629020315216,
+        "duration" : 816
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "259d73da634c6cde",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010772725,
+        "stop" : 1629010773213,
+        "duration" : 488
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "defe2e110b48c175",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605037457398,
+        "stop" : 1605037458498,
+        "duration" : 1100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "should detect if an element is selected",
+      "uid" : "7ec8e63bfb7d5df3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1617120629401,
+        "stop" : 1617120641482,
+        "duration" : 12081
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "b4eba3aa552b9603",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605036577697,
+        "stop" : 1605036588575,
+        "duration" : 10878
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "6d935a71ba26f4f6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617126469816,
+        "stop" : 1617126480008,
+        "duration" : 10192
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "should detect if an element is selected",
+      "uid" : "6b8cc638ef47557a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1617120497139,
+        "stop" : 1617120497601,
+        "duration" : 462
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "ce430351ff54f7ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617126693352,
+        "stop" : 1617126703426,
+        "duration" : 10074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "2b949074e7c0d779",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628456526588,
+        "stop" : 1628456526977,
+        "duration" : 389
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "d92e197e3723e15",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039262578,
+        "stop" : 1605039263985,
+        "duration" : 1407
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "1436bf1b93236507",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041849743,
+        "stop" : 1605041863103,
+        "duration" : 13360
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "fc126b5505ff59eb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010759744,
+        "stop" : 1629010772724,
+        "duration" : 12980
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "154f2aa187cbbe4a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041863103,
+        "stop" : 1605041864295,
+        "duration" : 1192
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "8ef0109542c36326",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041181357,
+        "stop" : 1605041183291,
+        "duration" : 1934
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "1535e38e2ca01d2c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042077573,
+        "stop" : 1605042079706,
+        "duration" : 2133
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "should detect if an element is selected",
+      "uid" : "5e5d536b6cb8fadd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1617120584769,
+        "stop" : 1617120587631,
+        "duration" : 2862
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "ebe4eeb62b621a1a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039937860,
+        "stop" : 1605039981008,
+        "duration" : 43148
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "c07387ec0e8bbb30",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020007029,
+        "stop" : 1629020017346,
+        "duration" : 10317
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "d7ddfd68ac07bd32",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042052173,
+        "stop" : 1605042077572,
+        "duration" : 25399
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "18d80137f13df448",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605039246899,
+      "stop" : 1605039246899,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "a92f8de8fdce8633",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605041155604,
+      "stop" : 1605041155604,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "a4d93253f6618adb",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605036589644,
+      "stop" : 1605036589644,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dynamic Dropdown Controls Smoke",
+    "uid" : "d605f61b79fffe44",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617126469815,
+      "stop" : 1617126469815,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "6ec44267e461ebc9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605041850360,
+      "stop" : 1605041850360,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "94f7afcb5f5350c2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605039982892,
+      "stop" : 1605039982892,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Fail page title-Smoke",
+    "uid" : "b0280f1db8b88c70",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120497136,
+      "stop" : 1617120497136,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "UI Controls sanity",
+    "uid" : "66891087ba3639ed",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617126693351,
+      "stop" : 1617126693351,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "3b97324e6b35381f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629020305123,
+      "stop" : 1629020305123,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dynamic Dropdown Controls Smoke",
+    "uid" : "994adee69a239cbc",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617126528688,
+      "stop" : 1617126528688,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "7d0199ddd763879a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605039935452,
+      "stop" : 1605039935452,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Fail page title-Smoke",
+    "uid" : "97d45b55439c5f30",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120670413,
+      "stop" : 1617120670413,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "7f0611e23031dc54",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120584769,
+      "stop" : 1617120584769,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "6fba9d6c4d15fb11",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628958973143,
+      "stop" : 1628958973143,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "f546699d58bd83d3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605042052055,
+      "stop" : 1605042052055,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "e1392a4ce5eafe8f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628525944489,
+      "stop" : 1628525944489,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "c8967fee72506cc2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628456511351,
+      "stop" : 1628456511351,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "UI Controls sanity",
+    "uid" : "1dfc05b893b1e057",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617126528687,
+      "stop" : 1617126528687,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "3bbadc9e6a52828",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605037445367,
+      "stop" : 1605037445367,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "f4f89f0b3a47955d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629010759408,
+      "stop" : 1629010759408,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "200d65bb232adac6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605036578765,
+      "stop" : 1605036578765,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "7a68488b10adecb6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120670414,
+      "stop" : 1617120670414,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "2133eca3e2da96b1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629020005633,
+      "stop" : 1629020005634,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "c4a849e75bd09e6e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628525954279,
+      "stop" : 1628525954279,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "45ad2b1c8168c9f4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629020018066,
+      "stop" : 1629020018066,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "bb5c54045bb7b1c4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605037444580,
+      "stop" : 1605037444580,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "8b0f9c91f27fa917",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629020006136,
+      "stop" : 1629020006136,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "acb924bd36c8cd1f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605041864299,
+      "stop" : 1605041864299,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "6b165a2769669c6a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628456511350,
+      "stop" : 1628456511350,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Fail page title-Smoke",
+    "uid" : "ed2e54b776afa6c1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120584768,
+      "stop" : 1617120584768,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "a0849151c35f8345",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605036579749,
+      "stop" : 1605036579749,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "50a1e432f909af2d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629020305124,
+      "stop" : 1629020305124,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Fail page title Smoke",
+    "uid" : "fdfce84de822dabf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120584768,
+      "stop" : 1617120584768,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "7204fc32538e52e8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629020315217,
+      "stop" : 1629020315217,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "e2a97b5268dc125",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628456512285,
+      "stop" : 1628456512285,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "92bf7246e7374c34",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605037445366,
+      "stop" : 1605037445367,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "d8e907fe4c9ae2cf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628958972276,
+      "stop" : 1628958972276,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "92955768a4f3f32a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605036579749,
+      "stop" : 1605036579749,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "3d85271475acdf3f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628958982746,
+      "stop" : 1628958982746,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "UI Controls sanity",
+    "uid" : "9f74b3288a8a4b85",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617126469813,
+      "stop" : 1617126469813,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "be331f90965feb9b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605041183292,
+      "stop" : 1605041183292,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "58138c556d2c9c4e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120629400,
+      "stop" : 1617120629400,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "ad5edbfea951b3d6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605037458498,
+      "stop" : 1605037458498,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "fe5c937fc5c6172d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605039248125,
+      "stop" : 1605039248125,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "621c5843864457d2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605042079706,
+      "stop" : 1605042079706,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "UI Controls sanity",
+    "uid" : "acfb43577f99a47b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617126449646,
+      "stop" : 1617126449646,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "97704b041c15dcf7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628958972275,
+      "stop" : 1628958972275,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Fail page title-Smoke",
+    "uid" : "7e651c0fdf114355",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120629399,
+      "stop" : 1617120629399,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Fail page title Smoke",
+    "uid" : "2c49c849b342fc37",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120629400,
+      "stop" : 1617120629400,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "49ee35cc14d8ce05",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605041152964,
+      "stop" : 1605041152964,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "2b4d15181ecabb9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1628525945234,
+      "stop" : 1628525945234,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dynamic Dropdown Controls Smoke",
+    "uid" : "f9ab6408f39c309e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617126693352,
+      "stop" : 1617126693352,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "a4cdfe0915bc6b73",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605041852093,
+      "stop" : 1605041852093,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "97c193a27d73dbd4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629010759507,
+      "stop" : 1629010759507,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "72e1cb1f0c935dd3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605039248126,
+      "stop" : 1605039248126,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "20ff35287a61351d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605041152970,
+      "stop" : 1605041152970,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Login Success page title",
+    "uid" : "622872f598173a33",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617120497137,
+      "stop" : 1617120497137,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Dynamic Dropdown Controls Smoke",
+    "uid" : "26da687795ca7ef4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1617126449647,
+      "stop" : 1617126449647,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "9997606530036605",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605042051854,
+      "stop" : 1605042051854,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Web Tables Sort validation Smoke",
+    "uid" : "a77bd71aa8539093",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605042051855,
+      "stop" : 1605042051855,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scrolling and Mouse hover",
+    "uid" : "1c8676b002de2d47",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1605039935451,
+      "stop" : 1605039935451,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Parent and Child windows switch",
+    "uid" : "7e68aab4997fa9d4",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1629020306114,
+      "stop" : 1629020306114,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

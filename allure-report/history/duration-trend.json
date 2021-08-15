@@ -1,0 +1,22 @@
+[ {
+  "buildOrder" : 3,
+  "reportUrl" : "nulljob/WebDriverIO/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 23978295359
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "nulljob/WebDriverIO/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 23977995031
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 41613
+  }
+} ]

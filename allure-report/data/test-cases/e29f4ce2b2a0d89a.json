@@ -1,0 +1,191 @@
+{
+  "uid" : "e29f4ce2b2a0d89a",
+  "name" : "Login Fail page title Smoke",
+  "fullName" : "Ecommerce Application.Login Fail page title Smoke",
+  "historyId" : "c4f8547c41c82b8c239b86808d471056",
+  "time" : {
+    "start" : 1629020314400,
+    "stop" : 1629020315216,
+    "duration" : 816
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1629020314401,
+        "stop" : 1629020315118,
+        "duration" : 717
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2d401fb565bbbd9",
+        "name" : "Request",
+        "source" : "2d401fb565bbbd9.json",
+        "type" : "application/json",
+        "size" : 64
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1629020315118,
+        "stop" : 1629020315167,
+        "duration" : 49
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "197e93e485886f74",
+        "name" : "Response",
+        "source" : "197e93e485886f74.json",
+        "type" : "application/json",
+        "size" : 43
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "GET /session/:sessionId/title",
+      "time" : {
+        "start" : 1629020315168,
+        "stop" : 1629020315215,
+        "duration" : 47
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6839f9ff567cdf0b",
+        "name" : "Response",
+        "source" : "6839f9ff567cdf0b.json",
+        "type" : "application/json",
+        "size" : 43
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login Fail page title Smoke"
+  }, {
+    "name" : "package",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.131"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1a25f97226ac07d6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020017348,
+        "stop" : 1629020018065,
+        "duration" : 717
+      }
+    }, {
+      "uid" : "259d73da634c6cde",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010772725,
+        "stop" : 1629010773213,
+        "duration" : 488
+      }
+    }, {
+      "uid" : "630ea48ef4d6a606",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958982322,
+        "stop" : 1628958982745,
+        "duration" : 423
+      }
+    }, {
+      "uid" : "92c57c49b1d02247",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628525953881,
+        "stop" : 1628525954277,
+        "duration" : 396
+      }
+    }, {
+      "uid" : "2b949074e7c0d779",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628456526588,
+        "stop" : 1628456526977,
+        "duration" : 389
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "808c0e037dfa0801",
+        "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/808c0e037dfa0801",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629020017348,
+          "stop" : 1629020018065,
+          "duration" : 717
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e29f4ce2b2a0d89a.json",
+  "parameterValues" : [ "chrome-92.0.4515.131" ]
+}

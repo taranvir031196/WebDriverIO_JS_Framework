@@ -1,0 +1,139 @@
+{
+  "uid" : "5e5d536b6cb8fadd",
+  "name" : "should detect if an element is selected",
+  "fullName" : "Ecommerce Application.should detect if an element is selected",
+  "historyId" : "10bfabe44f4ee24729f4d9fefeda6180",
+  "time" : {
+    "start" : 1617120584769,
+    "stop" : 1617120587631,
+    "duration" : 2862
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read property 'click' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'click' of undefined\n                    at Context.<anonymous> (C:\\Users\\Owner\\webdriverio\\test\\specs\\firstTest.js:59:18)\n                    at Context.executeSync (C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Cannot read property 'click' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'click' of undefined\n                    at Context.<anonymous> (C:\\Users\\Owner\\webdriverio\\test\\specs\\firstTest.js:59:18)\n                    at Context.executeSync (C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1617120584782,
+        "stop" : 1617120586775,
+        "duration" : 1993
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "239bdb77967efcd9",
+        "name" : "Request",
+        "source" : "239bdb77967efcd9.json",
+        "type" : "application/json",
+        "size" : 65
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1617120586779,
+        "stop" : 1617120586845,
+        "duration" : 66
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d4687b19a8bb9fc8",
+        "name" : "Request",
+        "source" : "d4687b19a8bb9fc8.json",
+        "type" : "application/json",
+        "size" : 61
+      }, {
+        "uid" : "81d2dd30bf143308",
+        "name" : "Response",
+        "source" : "81d2dd30bf143308.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1617120586860,
+        "stop" : 1617120587629,
+        "duration" : 769
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "1c5df86e65e69d",
+        "name" : "Screenshot",
+        "source" : "1c5df86e65e69d.png",
+        "type" : "image/png",
+        "size" : 225676
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should detect if an element is selected"
+  }, {
+    "name" : "package",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e5d536b6cb8fadd.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}

@@ -1,0 +1,118 @@
+{
+  "uid" : "6b8cc638ef47557a",
+  "name" : "should detect if an element is selected",
+  "fullName" : "Ecommerce Application.should detect if an element is selected",
+  "historyId" : "10bfabe44f4ee24729f4d9fefeda6180",
+  "time" : {
+    "start" : 1617120497139,
+    "stop" : 1617120497601,
+    "duration" : 462
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Cannot read property 'click' of undefined",
+  "statusTrace" : "TypeError: Cannot read property 'click' of undefined\n                    at Context.<anonymous> (C:\\Users\\Owner\\webdriverio\\test\\specs\\firstTest.js:58:18)\n                    at Context.executeSync (C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Cannot read property 'click' of undefined",
+    "statusTrace" : "TypeError: Cannot read property 'click' of undefined\n                    at Context.<anonymous> (C:\\Users\\Owner\\webdriverio\\test\\specs\\firstTest.js:58:18)\n                    at Context.executeSync (C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:25:22)\n                    at C:\\Users\\Owner\\webdriverio\\node_modules\\@wdio\\sync\\build\\index.js:46:68",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1617120497153,
+        "stop" : 1617120497252,
+        "duration" : 99
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2a0f2e7bb821bdba",
+        "name" : "Request",
+        "source" : "2a0f2e7bb821bdba.json",
+        "type" : "application/json",
+        "size" : 61
+      }, {
+        "uid" : "39e583c317d1cf0b",
+        "name" : "Response",
+        "source" : "39e583c317d1cf0b.json",
+        "type" : "application/json",
+        "size" : 2
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1617120497268,
+        "stop" : 1617120497599,
+        "duration" : 331
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e67372883ed458da",
+        "name" : "Screenshot",
+        "source" : "e67372883ed458da.png",
+        "type" : "image/png",
+        "size" : 3486
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should detect if an element is selected"
+  }, {
+    "name" : "package",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b8cc638ef47557a.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}

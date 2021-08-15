@@ -1,0 +1,235 @@
+{
+  "uid" : "2363900a53e7b2a1",
+  "name" : "should detect if an element is selected",
+  "fullName" : "Ecommerce Application.should detect if an element is selected",
+  "historyId" : "10bfabe44f4ee24729f4d9fefeda6180",
+  "time" : {
+    "start" : 1617120670414,
+    "stop" : 1617120681541,
+    "duration" : 11127
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1617120670423,
+        "stop" : 1617120680597,
+        "duration" : 10174
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b393865bb147e50c",
+        "name" : "Request",
+        "source" : "b393865bb147e50c.json",
+        "type" : "application/json",
+        "size" : 65
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1617120680601,
+        "stop" : 1617120681006,
+        "duration" : 405
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cf7b4a1f6449f6d5",
+        "name" : "Request",
+        "source" : "cf7b4a1f6449f6d5.json",
+        "type" : "application/json",
+        "size" : 63
+      }, {
+        "uid" : "be12384fdd07854f",
+        "name" : "Response",
+        "source" : "be12384fdd07854f.json",
+        "type" : "application/json",
+        "size" : 275
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/a93b5ee3-1ef3-48a6-9bf2-65eb80142134/click",
+      "time" : {
+        "start" : 1617120681025,
+        "stop" : 1617120681112,
+        "duration" : 87
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/a93b5ee3-1ef3-48a6-9bf2-65eb80142134/selected",
+      "time" : {
+        "start" : 1617120681112,
+        "stop" : 1617120681135,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bc1c3aaec01628e4",
+        "name" : "Response",
+        "source" : "bc1c3aaec01628e4.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "GET /session/:sessionId/element/5a8bceec-35a9-45dd-9c4a-8014e7eb9dc3/selected",
+      "time" : {
+        "start" : 1617120681138,
+        "stop" : 1617120681172,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1617120681173,
+        "stop" : 1617120681538,
+        "duration" : 365
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "17d01b569840729f",
+        "name" : "Screenshot",
+        "source" : "17d01b569840729f.png",
+        "type" : "image/png",
+        "size" : 51368
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 5
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should detect if an element is selected"
+  }, {
+    "name" : "package",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7ec8e63bfb7d5df3",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'click' of undefined",
+      "time" : {
+        "start" : 1617120629401,
+        "stop" : 1617120641482,
+        "duration" : 12081
+      }
+    }, {
+      "uid" : "5e5d536b6cb8fadd",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'click' of undefined",
+      "time" : {
+        "start" : 1617120584769,
+        "stop" : 1617120587631,
+        "duration" : 2862
+      }
+    }, {
+      "uid" : "6b8cc638ef47557a",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'click' of undefined",
+      "time" : {
+        "start" : 1617120497139,
+        "stop" : 1617120497601,
+        "duration" : 462
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "9c7259481e3bf27f",
+        "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/9c7259481e3bf27f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617120670414,
+          "stop" : 1617120681541,
+          "duration" : 11127
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2363900a53e7b2a1.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}

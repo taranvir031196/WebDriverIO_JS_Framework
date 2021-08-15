@@ -1,0 +1,15 @@
+[ {
+  "buildOrder" : 2,
+  "reportUrl" : "nulljob/WebDriverIO/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 2
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+} ]

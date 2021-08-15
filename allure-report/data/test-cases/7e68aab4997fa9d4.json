@@ -1,0 +1,187 @@
+{
+  "uid" : "7e68aab4997fa9d4",
+  "name" : "Parent and Child windows switch",
+  "fullName" : "Windows and Frames Miscellanous.Parent and Child windows switch",
+  "historyId" : "361052bfa297b94347e124e2c60bdc35",
+  "time" : {
+    "start" : 1629020306114,
+    "stop" : 1629020306114,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Windows and Frames Miscellanous"
+  }, {
+    "name" : "testClass",
+    "value" : "Windows and Frames Miscellanous"
+  }, {
+    "name" : "testMethod",
+    "value" : "Parent and Child windows switch"
+  }, {
+    "name" : "package",
+    "value" : "Windows and Frames Miscellanous"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2133eca3e2da96b1",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1629020005633,
+        "stop" : 1629020005634,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "97c193a27d73dbd4",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1629010759507,
+        "stop" : 1629010759507,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6fba9d6c4d15fb11",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1628958973143,
+        "stop" : 1628958973143,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2b4d15181ecabb9",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1628525945234,
+        "stop" : 1628525945234,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e2a97b5268dc125",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1628456512285,
+        "stop" : 1628456512285,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f546699d58bd83d3",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605042052055,
+        "stop" : 1605042052055,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6ec44267e461ebc9",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605041850360,
+        "stop" : 1605041850360,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a92f8de8fdce8633",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605041155604,
+        "stop" : 1605041155604,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "153bb2450ada60a4",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605039938848,
+        "stop" : 1605039938848,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "18d80137f13df448",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605039246899,
+        "stop" : 1605039246899,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bb5c54045bb7b1c4",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605037444580,
+        "stop" : 1605037444580,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "200d65bb232adac6",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605036578765,
+        "stop" : 1605036578765,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 3,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "c14ff2bdc1468cee",
+        "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/c14ff2bdc1468cee",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1629020005633,
+          "stop" : 1629020005634,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "16f7b9bc3923ae39",
+        "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/16f7b9bc3923ae39",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1605041850360,
+          "stop" : 1605041850360,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7e68aab4997fa9d4.json",
+  "parameterValues" : [ ]
+}

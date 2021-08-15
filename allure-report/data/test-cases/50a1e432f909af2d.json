@@ -1,0 +1,187 @@
+{
+  "uid" : "50a1e432f909af2d",
+  "name" : "Web Tables Sort validation Smoke",
+  "fullName" : "Functional Testing on  Application.Web Tables Sort validation Smoke",
+  "historyId" : "1d35813172ea3319bed30c99aa303cfc",
+  "time" : {
+    "start" : 1629020305124,
+    "stop" : 1629020305124,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Functional Testing on  Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Functional Testing on  Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Web Tables Sort validation Smoke"
+  }, {
+    "name" : "package",
+    "value" : "Functional Testing on  Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "410a79a7a81f8b12",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1629020006137,
+        "stop" : 1629020006137,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f38544c2c8d3259",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1629010759410,
+        "stop" : 1629010759410,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d8e907fe4c9ae2cf",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1628958972276,
+        "stop" : 1628958972276,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e1392a4ce5eafe8f",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1628525944489,
+        "stop" : 1628525944489,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c8967fee72506cc2",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1628456511351,
+        "stop" : 1628456511351,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a77bd71aa8539093",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605042051855,
+        "stop" : 1605042051855,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a4cdfe0915bc6b73",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605041852093,
+        "stop" : 1605041852093,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "20ff35287a61351d",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605041152970,
+        "stop" : 1605041152970,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7d0199ddd763879a",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605039935452,
+        "stop" : 1605039935452,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "72e1cb1f0c935dd3",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605039248126,
+        "stop" : 1605039248126,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3bbadc9e6a52828",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605037445367,
+        "stop" : 1605037445367,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "92955768a4f3f32a",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605036579749,
+        "stop" : 1605036579749,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 3,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "92cf0597c04785cb",
+        "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/92cf0597c04785cb",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1629020006137,
+          "stop" : 1629020006137,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "db250fd3f41fccd2",
+        "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/db250fd3f41fccd2",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1605041852093,
+          "stop" : 1605041852093,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "50a1e432f909af2d.json",
+  "parameterValues" : [ ]
+}

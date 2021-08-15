@@ -1,0 +1,83 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1617126528686' stop='1617126537236'>
+    <name>Ecommerce Application</name>
+    <title>Ecommerce Application</title>
+    <test-cases>
+        <test-case start='1617126528687' status='pending' stop='1617126528687'>
+            <name>UI Controls sanity</name>
+            <title>UI Controls sanity</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1617126528688' status='pending' stop='1617126528688'>
+            <name>Dynamic Dropdown Controls Smoke</name>
+            <title>Dynamic Dropdown Controls Smoke</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1617126528689' status='passed' stop='1617126537233'>
+            <name>Checkboxes Identification</name>
+            <title>Checkboxes Identification</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-89.0.4389.90'/>
+            </parameters>
+            <steps>
+                <step start='1617126528701' status='passed' stop='1617126536565'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='0d137e1f-33f5-4f81-8d16-b48d75a3a3f7-attachment.json' type='application/json' size='65'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1617126536571' status='passed' stop='1617126537014'>
+                    <name>POST /session/:sessionId/elements</name>
+                    <title>POST /session/:sessionId/elements</title>
+                    <attachments>
+                        <attachment title='Request' source='ea7516e2-83b2-465e-8186-5376ae62f2ea-attachment.json' type='application/json' size='66'/>
+                        <attachment title='Response' source='5bff2db5-4d20-4925-8a72-eb4f94ccca7e-attachment.json' type='application/json' size='275'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1617126537033' status='passed' stop='1617126537137'>
+                    <name>POST /session/:sessionId/element/d5b44609-a9db-4910-a8d1-858b328a5043/click</name>
+                    <title>POST /session/:sessionId/element/d5b44609-a9db-4910-a8d1-858b328a5043/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1617126537138' status='passed' stop='1617126537196'>
+                    <name>GET /session/:sessionId/element/d5b44609-a9db-4910-a8d1-858b328a5043/selected</name>
+                    <title>GET /session/:sessionId/element/d5b44609-a9db-4910-a8d1-858b328a5043/selected</title>
+                    <attachments>
+                        <attachment title='Response' source='f7fd2999-5fed-4c28-9b79-a55238d0c94e-attachment.json' type='application/json' size='4'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1617126537199' status='passed' stop='1617126537231'>
+                    <name>GET /session/:sessionId/element/c082658b-137d-429f-baea-03be9c66ff1d/selected</name>
+                    <title>GET /session/:sessionId/element/c082658b-137d-429f-baea-03be9c66ff1d/selected</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,46 @@
+{
+  "uid" : "acb924bd36c8cd1f",
+  "name" : "Login Success page title",
+  "fullName" : "Ecommerce Application.Login Success page title",
+  "historyId" : "2cd1c18fb795817dfbbe536b0e2cb351",
+  "time" : {
+    "start" : 1605041864299,
+    "stop" : 1605041864299,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Login Success page title"
+  }, {
+    "name" : "package",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "acb924bd36c8cd1f.json",
+  "parameterValues" : [ ]
+}

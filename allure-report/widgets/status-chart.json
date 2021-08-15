@@ -1,0 +1,271 @@
+[ {
+  "uid" : "ba51e49e202e7a0d",
+  "name" : "UI Controls sanity",
+  "time" : {
+    "start" : 1629020305228,
+    "stop" : 1629020317509,
+    "duration" : 12281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d545e40247caa31a",
+  "name" : "Login Fail page title",
+  "time" : {
+    "start" : 1605042075755,
+    "stop" : 1605042087751,
+    "duration" : 11996
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d7d4f18e560995",
+  "name" : "End to End Test",
+  "time" : {
+    "start" : 1629020334632,
+    "stop" : 1629020346603,
+    "duration" : 11971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9ab6408f39c309e",
+  "name" : "Dynamic Dropdown Controls Smoke",
+  "time" : {
+    "start" : 1617126693352,
+    "stop" : 1617126693352,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "66891087ba3639ed",
+  "name" : "UI Controls sanity",
+  "time" : {
+    "start" : 1617126693351,
+    "stop" : 1617126693351,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "cd600fbfc655c3ae",
+  "name" : "Dynamic Dropdown Controls Smoke",
+  "time" : {
+    "start" : 1629020317510,
+    "stop" : 1629020332682,
+    "duration" : 15172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e4160d5ff94bdb",
+  "name" : "End to End Test",
+  "time" : {
+    "start" : 1605042109608,
+    "stop" : 1605042121956,
+    "duration" : 12348
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39753be42103a5ba",
+  "name" : "Web Tables Filter validation",
+  "time" : {
+    "start" : 1629020305125,
+    "stop" : 1629020322111,
+    "duration" : 16986
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c30c5633f687cd73",
+  "name" : "Frames switch",
+  "time" : {
+    "start" : 1629020306115,
+    "stop" : 1629020327481,
+    "duration" : 21366
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40eec5c1801e18ed",
+  "name" : "Login Fail page title",
+  "time" : {
+    "start" : 1629020316009,
+    "stop" : 1629020320564,
+    "duration" : 4555
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca6a2832519589eb",
+  "name" : "Frames switch",
+  "time" : {
+    "start" : 1605042052094,
+    "stop" : 1605042104007,
+    "duration" : 51913
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7204fc32538e52e8",
+  "name" : "Login Success page title",
+  "time" : {
+    "start" : 1629020315217,
+    "stop" : 1629020315217,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1535e38e2ca01d2c",
+  "name" : "Login Fail page title Smoke",
+  "time" : {
+    "start" : 1605042077573,
+    "stop" : 1605042079706,
+    "duration" : 2133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e68aab4997fa9d4",
+  "name" : "Parent and Child windows switch",
+  "time" : {
+    "start" : 1629020306114,
+    "stop" : 1629020306114,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "92f6af18e5908089",
+  "name" : "Login Fail page title-Smoke",
+  "time" : {
+    "start" : 1629020303023,
+    "stop" : 1629020314399,
+    "duration" : 11376
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e29f4ce2b2a0d89a",
+  "name" : "Login Fail page title Smoke",
+  "time" : {
+    "start" : 1629020314400,
+    "stop" : 1629020315216,
+    "duration" : 816
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2abe7823048b9b0f",
+  "name" : "Web Tables Filter validation",
+  "time" : {
+    "start" : 1605042051855,
+    "stop" : 1605042079781,
+    "duration" : 27926
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b97324e6b35381f",
+  "name" : "Scrolling and Mouse hover",
+  "time" : {
+    "start" : 1629020305123,
+    "stop" : 1629020305123,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "97d45b55439c5f30",
+  "name" : "Login Fail page title-Smoke",
+  "time" : {
+    "start" : 1617120670413,
+    "stop" : 1617120670413,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ce430351ff54f7ed",
+  "name" : "Checkboxes Identification",
+  "time" : {
+    "start" : 1617126693352,
+    "stop" : 1617126703426,
+    "duration" : 10074
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50a1e432f909af2d",
+  "name" : "Web Tables Sort validation Smoke",
+  "time" : {
+    "start" : 1629020305124,
+    "stop" : 1629020305124,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d7ddfd68ac07bd32",
+  "name" : "Login Fail page title-Smoke",
+  "time" : {
+    "start" : 1605042052173,
+    "stop" : 1605042077572,
+    "duration" : 25399
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bdc3b9319163dd6",
+  "name" : "Login Fail page title Smoke",
+  "time" : {
+    "start" : 1617120670414,
+    "stop" : 1617120670414,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "6fcad2a6d0131e09",
+  "name" : "Dynamic Dropdown Controls Smoke",
+  "time" : {
+    "start" : 1605042080105,
+    "stop" : 1605042108875,
+    "duration" : 28770
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c965889ce851fb43",
+  "name" : "Checkboxes Identification",
+  "time" : {
+    "start" : 1629020332682,
+    "stop" : 1629020337261,
+    "duration" : 4579
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2363900a53e7b2a1",
+  "name" : "should detect if an element is selected",
+  "time" : {
+    "start" : 1617120670414,
+    "stop" : 1617120681541,
+    "duration" : 11127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "966d557170df37e3",
+  "name" : "UI Controls sanity",
+  "time" : {
+    "start" : 1605042051244,
+    "stop" : 1605042080104,
+    "duration" : 28860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

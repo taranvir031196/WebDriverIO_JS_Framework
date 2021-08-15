@@ -1,0 +1,368 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Ecommerce Application",
+    "children" : [ {
+      "name" : "UI Controls sanity",
+      "uid" : "966d557170df37e3",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042051244,
+        "stop" : 1605042080104,
+        "duration" : 28860
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "d7ddfd68ac07bd32",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042052173,
+        "stop" : 1605042077572,
+        "duration" : 25399
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "d545e40247caa31a",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042075755,
+        "stop" : 1605042087751,
+        "duration" : 11996
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "1535e38e2ca01d2c",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042077573,
+        "stop" : 1605042079706,
+        "duration" : 2133
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "6fcad2a6d0131e09",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042080105,
+        "stop" : 1605042108875,
+        "duration" : 28770
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "1e4160d5ff94bdb",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042109608,
+        "stop" : 1605042121956,
+        "duration" : 12348
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "97d45b55439c5f30",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1617120670413,
+        "stop" : 1617120670413,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "9bdc3b9319163dd6",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1617120670414,
+        "stop" : 1617120670414,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "should detect if an element is selected",
+      "uid" : "2363900a53e7b2a1",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617120670414,
+        "stop" : 1617120681541,
+        "duration" : 11127
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "66891087ba3639ed",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1617126693351,
+        "stop" : 1617126693351,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "f9ab6408f39c309e",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1617126693352,
+        "stop" : 1617126693352,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "ce430351ff54f7ed",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617126693352,
+        "stop" : 1617126703426,
+        "duration" : 10074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-89.0.4389.90" ]
+    }, {
+      "name" : "Login Fail page title-Smoke",
+      "uid" : "92f6af18e5908089",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020303023,
+        "stop" : 1629020314399,
+        "duration" : 11376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "UI Controls sanity",
+      "uid" : "ba51e49e202e7a0d",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020305228,
+        "stop" : 1629020317509,
+        "duration" : 12281
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Fail page title Smoke",
+      "uid" : "e29f4ce2b2a0d89a",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020314400,
+        "stop" : 1629020315216,
+        "duration" : 816
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Login Success page title",
+      "uid" : "7204fc32538e52e8",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1629020315217,
+        "stop" : 1629020315217,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Login Fail page title",
+      "uid" : "40eec5c1801e18ed",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020316009,
+        "stop" : 1629020320564,
+        "duration" : 4555
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Dynamic Dropdown Controls Smoke",
+      "uid" : "cd600fbfc655c3ae",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020317510,
+        "stop" : 1629020332682,
+        "duration" : 15172
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "Checkboxes Identification",
+      "uid" : "c965889ce851fb43",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020332682,
+        "stop" : 1629020337261,
+        "duration" : 4579
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    }, {
+      "name" : "End to End Test",
+      "uid" : "8d7d4f18e560995",
+      "parentUid" : "6c8c5f561facedc0b08f79415b94aea4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020334632,
+        "stop" : 1629020346603,
+        "duration" : 11971
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    } ],
+    "uid" : "6c8c5f561facedc0b08f79415b94aea4"
+  }, {
+    "name" : "Functional Testing on  Application",
+    "children" : [ {
+      "name" : "Web Tables Filter validation",
+      "uid" : "2abe7823048b9b0f",
+      "parentUid" : "240d172190e4f780c0f062d2cfbbd9f8",
+      "status" : "failed",
+      "time" : {
+        "start" : 1605042051855,
+        "stop" : 1605042079781,
+        "duration" : 27926
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Scrolling and Mouse hover",
+      "uid" : "3b97324e6b35381f",
+      "parentUid" : "240d172190e4f780c0f062d2cfbbd9f8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1629020305123,
+        "stop" : 1629020305123,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Web Tables Sort validation Smoke",
+      "uid" : "50a1e432f909af2d",
+      "parentUid" : "240d172190e4f780c0f062d2cfbbd9f8",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1629020305124,
+        "stop" : 1629020305124,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Web Tables Filter validation",
+      "uid" : "39753be42103a5ba",
+      "parentUid" : "240d172190e4f780c0f062d2cfbbd9f8",
+      "status" : "failed",
+      "time" : {
+        "start" : 1629020305125,
+        "stop" : 1629020322111,
+        "duration" : 16986
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    } ],
+    "uid" : "240d172190e4f780c0f062d2cfbbd9f8"
+  }, {
+    "name" : "Windows and Frames Miscellanous",
+    "children" : [ {
+      "name" : "Frames switch",
+      "uid" : "ca6a2832519589eb",
+      "parentUid" : "31195739383706ec051fe1648610ef91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042052094,
+        "stop" : 1605042104007,
+        "duration" : 51913
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    }, {
+      "name" : "Parent and Child windows switch",
+      "uid" : "7e68aab4997fa9d4",
+      "parentUid" : "31195739383706ec051fe1648610ef91",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1629020306114,
+        "stop" : 1629020306114,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Frames switch",
+      "uid" : "c30c5633f687cd73",
+      "parentUid" : "31195739383706ec051fe1648610ef91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020306115,
+        "stop" : 1629020327481,
+        "duration" : 21366
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-92.0.4515.131" ]
+    } ],
+    "uid" : "31195739383706ec051fe1648610ef91"
+  } ]
+}

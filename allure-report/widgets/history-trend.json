@@ -1,0 +1,37 @@
+[ {
+  "buildOrder" : 3,
+  "reportUrl" : "nulljob/WebDriverIO/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 2,
+    "broken" : 0,
+    "skipped" : 8,
+    "passed" : 17,
+    "unknown" : 0,
+    "total" : 27
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "nulljob/WebDriverIO/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 2,
+    "broken" : 0,
+    "skipped" : 8,
+    "passed" : 17,
+    "unknown" : 0,
+    "total" : 27
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 1,
+    "broken" : 0,
+    "skipped" : 4,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 12
+  }
+} ]

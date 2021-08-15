@@ -1,0 +1,233 @@
+{
+  "uid" : "ce430351ff54f7ed",
+  "name" : "Checkboxes Identification",
+  "fullName" : "Ecommerce Application.Checkboxes Identification",
+  "historyId" : "6eecf83a2d1d653fd847d6b9ed7951b8",
+  "time" : {
+    "start" : 1617126693352,
+    "stop" : 1617126703426,
+    "duration" : 10074
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1617126693364,
+        "stop" : 1617126702061,
+        "duration" : 8697
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "fd644bc7f78c837d",
+        "name" : "Request",
+        "source" : "fd644bc7f78c837d.json",
+        "type" : "application/json",
+        "size" : 65
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1617126702068,
+        "stop" : 1617126702597,
+        "duration" : 529
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4d5d9a5f4616ec4e",
+        "name" : "Request",
+        "source" : "4d5d9a5f4616ec4e.json",
+        "type" : "application/json",
+        "size" : 66
+      }, {
+        "uid" : "58e64345234ee835",
+        "name" : "Response",
+        "source" : "58e64345234ee835.json",
+        "type" : "application/json",
+        "size" : 275
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/764ac467-caf0-4c86-b45f-4debb38990d8/click",
+      "time" : {
+        "start" : 1617126702622,
+        "stop" : 1617126702938,
+        "duration" : 316
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/764ac467-caf0-4c86-b45f-4debb38990d8/selected",
+      "time" : {
+        "start" : 1617126702938,
+        "stop" : 1617126702964,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "35c89dfa3173de8e",
+        "name" : "Response",
+        "source" : "35c89dfa3173de8e.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "GET /session/:sessionId/element/ef43335e-0363-467f-97cd-ed3441db6b2d/selected",
+      "time" : {
+        "start" : 1617126702967,
+        "stop" : 1617126703016,
+        "duration" : 49
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1617126703018,
+        "stop" : 1617126703420,
+        "duration" : 402
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b3c30508a866bc07",
+        "name" : "Screenshot",
+        "source" : "b3c30508a866bc07.png",
+        "type" : "image/png",
+        "size" : 51739
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 5
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checkboxes Identification"
+  }, {
+    "name" : "package",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-89.0.4389.90"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8d26e99b868e5405",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617126528689,
+        "stop" : 1617126537233,
+        "duration" : 8544
+      }
+    }, {
+      "uid" : "6d935a71ba26f4f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617126469816,
+        "stop" : 1617126480008,
+        "duration" : 10192
+      }
+    }, {
+      "uid" : "3734b571ea597cfb",
+      "status" : "broken",
+      "statusDetails" : "Cannot read property 'click' of undefined",
+      "time" : {
+        "start" : 1617126449647,
+        "stop" : 1617126450001,
+        "duration" : 354
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "860a0f42aa015d4b",
+        "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/860a0f42aa015d4b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617126693352,
+          "stop" : 1617126703426,
+          "duration" : 10074
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ce430351ff54f7ed.json",
+  "parameterValues" : [ "chrome-89.0.4389.90" ]
+}

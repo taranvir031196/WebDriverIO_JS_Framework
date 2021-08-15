@@ -1,0 +1,9 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "buildOrder" : 3,
+  "buildName" : "WebDriverIO #3",
+  "buildUrl" : "nulljob/WebDriverIO/3/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "nulljob/WebDriverIO/3/allure"
+} ]

@@ -1,0 +1,665 @@
+{
+  "ae3a8b66bf3802c5866e38202948c162" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b773ba1e6240962a",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/b773ba1e6240962a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042080105,
+        "stop" : 1605042108875,
+        "duration" : 28770
+      }
+    }, {
+      "uid" : "c81213c37ade28be",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/c81213c37ade28be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041863716,
+        "stop" : 1605041875622,
+        "duration" : 11906
+      }
+    } ]
+  },
+  "66458ce89d2d408df3feb97803dfa03b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1d222b34c68fdd70",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/1d222b34c68fdd70",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1617120670414,
+        "stop" : 1617120670414,
+        "duration" : 0
+      }
+    } ]
+  },
+  "af82d3d62b1d6a9093b27882bc311c70" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1015ef49249b351",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/c1015ef49249b351",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020036387,
+        "stop" : 1629020046275,
+        "duration" : 9888
+      }
+    } ]
+  },
+  "db68583892a22eaa93eea770fa3f59df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3dd27b43c5412982",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/3dd27b43c5412982",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020029121,
+        "stop" : 1629020034129,
+        "duration" : 5008
+      }
+    } ]
+  },
+  "8b1ea5c2a3c9af5ca4dc4d5baff95e35" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "98b4411b56fd9346",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/98b4411b56fd9346",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020005634,
+        "stop" : 1629020028228,
+        "duration" : 22594
+      }
+    } ]
+  },
+  "a563fb8b13af3489cadfbeeace762618" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "efdcb840ebbe4149",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/efdcb840ebbe4149",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042052173,
+        "stop" : 1605042077572,
+        "duration" : 25399
+      }
+    }, {
+      "uid" : "82f44ae0e4f28e87",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/82f44ae0e4f28e87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041849743,
+        "stop" : 1605041863103,
+        "duration" : 13360
+      }
+    } ]
+  },
+  "2cd1c18fb795817dfbbe536b0e2cb351" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "fea953c9ef5539fc",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/fea953c9ef5539fc",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1629020018066,
+        "stop" : 1629020018066,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "375139c1ea347f2",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/375139c1ea347f2",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605041864299,
+        "stop" : 1605041864299,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a1390388d7959a497bab1ce7688a33" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b2ead62f8159b91d",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/b2ead62f8159b91d",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`tr td:nth-child(1)`) to have text containing\n                \n                Expected: \"Tomto\"\n                Received: \"Tomato\"",
+      "time" : {
+        "start" : 1629020006137,
+        "stop" : 1629020023515,
+        "duration" : 17378
+      }
+    } ]
+  },
+  "335304bbf54cfa4ec2f905d998f29dc2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c3471c65b724dc94",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/c3471c65b724dc94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042109608,
+        "stop" : 1605042121956,
+        "duration" : 12348
+      }
+    }, {
+      "uid" : "2653f19d1047d702",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/2653f19d1047d702",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041882032,
+        "stop" : 1605041891356,
+        "duration" : 9324
+      }
+    } ]
+  },
+  "64b0914ded9bc2a79b16e9c681794d42" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "5a48aac34555714",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/5a48aac34555714",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`tr td:nth-child(1)`) to have text containing\n                \n                Expected: \"Tomto\"\n                Received: \"Tomato\"",
+      "time" : {
+        "start" : 1605042051855,
+        "stop" : 1605042079781,
+        "duration" : 27926
+      }
+    }, {
+      "uid" : "63bd8f9cf7ba5204",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/63bd8f9cf7ba5204",
+      "status" : "failed",
+      "statusDetails" : "Expect $(`tr td:nth-child(1)`) to have text containing\n                \n                Expected: \"Tomto\"\n                Received: \"Tomato\"",
+      "time" : {
+        "start" : 1605041852093,
+        "stop" : 1605041870156,
+        "duration" : 18063
+      }
+    } ]
+  },
+  "73d3d1d4baeb4ecac72c83496ef9990b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d3f7ecd4307f6522",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/d3f7ecd4307f6522",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1617120670413,
+        "stop" : 1617120670413,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f5a0f3b43f5b30a834950e67a3453803" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1eb64e23f8b43ed1",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/1eb64e23f8b43ed1",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1617126693352,
+        "stop" : 1617126693352,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2aaa9957dceee09d66c4d6a3ce4499a8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a0915866b2b9d1e1",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/a0915866b2b9d1e1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020007413,
+        "stop" : 1629020017516,
+        "duration" : 10103
+      }
+    } ]
+  },
+  "c4f8547c41c82b8c239b86808d471056" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "808c0e037dfa0801",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/808c0e037dfa0801",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020017348,
+        "stop" : 1629020018065,
+        "duration" : 717
+      }
+    } ]
+  },
+  "a1e6f27924d4c9b7ff2a8477bbc45e96" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e744864338443716",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/e744864338443716",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020007029,
+        "stop" : 1629020017346,
+        "duration" : 10317
+      }
+    } ]
+  },
+  "10bfabe44f4ee24729f4d9fefeda6180" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9c7259481e3bf27f",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/9c7259481e3bf27f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617120670414,
+        "stop" : 1617120681541,
+        "duration" : 11127
+      }
+    } ]
+  },
+  "1d35813172ea3319bed30c99aa303cfc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "92cf0597c04785cb",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/92cf0597c04785cb",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1629020006137,
+        "stop" : 1629020006137,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "db250fd3f41fccd2",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/db250fd3f41fccd2",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605041852093,
+        "stop" : 1605041852093,
+        "duration" : 0
+      }
+    } ]
+  },
+  "361052bfa297b94347e124e2c60bdc35" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c14ff2bdc1468cee",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/c14ff2bdc1468cee",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1629020005633,
+        "stop" : 1629020005634,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "16f7b9bc3923ae39",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/16f7b9bc3923ae39",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605041850360,
+        "stop" : 1605041850360,
+        "duration" : 0
+      }
+    } ]
+  },
+  "6eecf83a2d1d653fd847d6b9ed7951b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "860a0f42aa015d4b",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/860a0f42aa015d4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617126693352,
+        "stop" : 1617126703426,
+        "duration" : 10074
+      }
+    } ]
+  },
+  "3a8563858f776d89f38c38a421ad3990" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "96b4a800c605d434",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/96b4a800c605d434",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1617126693351,
+        "stop" : 1617126693351,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d6eb48251a265779b6799bc8fd062d67" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b73370615c563490",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/b73370615c563490",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1629020006136,
+        "stop" : 1629020006136,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c693aa92f5b82255",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/c693aa92f5b82255",
+      "status" : "skipped",
+      "statusDetails" : "Test ignored",
+      "time" : {
+        "start" : 1605041852092,
+        "stop" : 1605041852092,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f3608f4422b188e41ed9a192cd65bac8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "f4c373fc77ad6b7f",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/f4c373fc77ad6b7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042052094,
+        "stop" : 1605042104007,
+        "duration" : 51913
+      }
+    }, {
+      "uid" : "60392df0dbb6e682",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/60392df0dbb6e682",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041850361,
+        "stop" : 1605041869529,
+        "duration" : 19168
+      }
+    } ]
+  },
+  "dad0235f25588d2c6ea3b6b98083b065" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "dcddff5be4faf0c4",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/dcddff5be4faf0c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042077573,
+        "stop" : 1605042079706,
+        "duration" : 2133
+      }
+    }, {
+      "uid" : "c00ad12e889154e9",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/c00ad12e889154e9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041863103,
+        "stop" : 1605041864295,
+        "duration" : 1192
+      }
+    } ]
+  },
+  "23e901d1310f850633d5760223400616" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bec35cabc9b48408",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/bec35cabc9b48408",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020017517,
+        "stop" : 1629020029121,
+        "duration" : 11604
+      }
+    } ]
+  },
+  "2d84f74c3686a5d18f85c2f296ab5263" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb6aa25ab8982fe9",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/bb6aa25ab8982fe9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020016952,
+        "stop" : 1629020022120,
+        "duration" : 5168
+      }
+    } ]
+  },
+  "6a56fbc379d22ada2d02047ad82a0963" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8848f20204403be5",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/8848f20204403be5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042051244,
+        "stop" : 1605042080104,
+        "duration" : 28860
+      }
+    }, {
+      "uid" : "6d026f67542e6679",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/6d026f67542e6679",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041852511,
+        "stop" : 1605041863716,
+        "duration" : 11205
+      }
+    } ]
+  },
+  "3a31ceb0c6f8e5462702a2b17691af85" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "6ebe27fe6faa749f",
+      "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/6ebe27fe6faa749f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605042075755,
+        "stop" : 1605042087751,
+        "duration" : 11996
+      }
+    }, {
+      "uid" : "da3482996834d42d",
+      "reportUrl" : "http://localhost:9090/job/WebDriverIO/9/allure/#testresult/da3482996834d42d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605041862002,
+        "stop" : 1605041868094,
+        "duration" : 6092
+      }
+    } ]
+  }
+}

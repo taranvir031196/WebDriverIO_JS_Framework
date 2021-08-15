@@ -1,0 +1,46 @@
+{
+  "uid" : "f4f89f0b3a47955d",
+  "name" : "Scrolling and Mouse hover",
+  "fullName" : "Functional Testing on  Application.Scrolling and Mouse hover",
+  "historyId" : "d6eb48251a265779b6799bc8fd062d67",
+  "time" : {
+    "start" : 1629010759408,
+    "stop" : 1629010759408,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Functional Testing on  Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Functional Testing on  Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Scrolling and Mouse hover"
+  }, {
+    "name" : "package",
+    "value" : "Functional Testing on  Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f4f89f0b3a47955d.json",
+  "parameterValues" : [ ]
+}

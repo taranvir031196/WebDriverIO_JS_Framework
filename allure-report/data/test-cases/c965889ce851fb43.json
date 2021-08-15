@@ -1,0 +1,248 @@
+{
+  "uid" : "c965889ce851fb43",
+  "name" : "Checkboxes Identification",
+  "fullName" : "Ecommerce Application.Checkboxes Identification",
+  "historyId" : "db68583892a22eaa93eea770fa3f59df",
+  "time" : {
+    "start" : 1629020332682,
+    "stop" : 1629020337261,
+    "duration" : 4579
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1629020332683,
+        "stop" : 1629020335862,
+        "duration" : 3179
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c36011d5dcda9ed7",
+        "name" : "Request",
+        "source" : "c36011d5dcda9ed7.json",
+        "type" : "application/json",
+        "size" : 65
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1629020335862,
+        "stop" : 1629020335898,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "12efc01c48365f5d",
+        "name" : "Request",
+        "source" : "12efc01c48365f5d.json",
+        "type" : "application/json",
+        "size" : 66
+      }, {
+        "uid" : "23c8f507f7add3c7",
+        "name" : "Response",
+        "source" : "23c8f507f7add3c7.json",
+        "type" : "application/json",
+        "size" : 275
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/7d269785-265c-4010-84db-74184f1b4396/click",
+      "time" : {
+        "start" : 1629020335913,
+        "stop" : 1629020336873,
+        "duration" : 960
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/element/7d269785-265c-4010-84db-74184f1b4396/selected",
+      "time" : {
+        "start" : 1629020336874,
+        "stop" : 1629020336892,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8e76fa44469db7ad",
+        "name" : "Response",
+        "source" : "8e76fa44469db7ad.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "GET /session/:sessionId/element/ce794ebc-c3c5-4fb4-88e9-abdcb8f84a2f/selected",
+      "time" : {
+        "start" : 1629020336896,
+        "stop" : 1629020336917,
+        "duration" : 21
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1629020336920,
+        "stop" : 1629020337260,
+        "duration" : 340
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cdaeb3eda762b23e",
+        "name" : "Screenshot",
+        "source" : "cdaeb3eda762b23e.png",
+        "type" : "image/png",
+        "size" : 92834
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 5
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testClass",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "testMethod",
+    "value" : "Checkboxes Identification"
+  }, {
+    "name" : "package",
+    "value" : "Ecommerce Application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-92.0.4515.131"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "25cb4845f9b18a05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629020029121,
+        "stop" : 1629020034129,
+        "duration" : 5008
+      }
+    }, {
+      "uid" : "36807242fa76d09a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629010788237,
+        "stop" : 1629010795008,
+        "duration" : 6771
+      }
+    }, {
+      "uid" : "d3edf8cdfa9d8cc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628958997180,
+        "stop" : 1628959000725,
+        "duration" : 3545
+      }
+    }, {
+      "uid" : "e21689044c5a77ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628525966622,
+        "stop" : 1628525970086,
+        "duration" : 3464
+      }
+    }, {
+      "uid" : "803053f0d8f4a9bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628456541979,
+        "stop" : 1628456547624,
+        "duration" : 5645
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "3dd27b43c5412982",
+        "reportUrl" : "nulljob/WebDriverIO/2/allure/#testresult/3dd27b43c5412982",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629020029121,
+          "stop" : 1629020034129,
+          "duration" : 5008
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c965889ce851fb43.json",
+  "parameterValues" : [ "chrome-92.0.4515.131" ]
+}
